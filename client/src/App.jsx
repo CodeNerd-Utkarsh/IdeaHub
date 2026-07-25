@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <h1>IdeaHub</h1>
+      <h1>IdeaHub with CI/CD by AZURE</h1>
       <h2>{message}</h2>
     </div>
   );
